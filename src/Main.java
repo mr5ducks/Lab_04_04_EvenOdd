@@ -6,6 +6,6 @@ public class Main {
             System.out.println(numToExamine + " Even.");
         } else {
             System.out.println(numToExamine + " Odd.");
-        }
+        }//commit
     }
 }
